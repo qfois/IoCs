@@ -1,2 +1,2 @@
 # IoCs and Tools
-This repository contains Indicators of compromise and Tools from VMware TAU's published reports.
+This repository contains indicators of compromise (IoCs) and tools from VMware TAU's published reports.
